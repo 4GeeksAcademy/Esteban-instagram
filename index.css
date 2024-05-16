@@ -1,0 +1,48 @@
+.post{
+    max-width: 80%;
+    margin: 0 auto;
+    
+
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-left{
+    display: flex;
+
+}
+ 
+#madrid{
+     font-size: 20px;
+     padding-left: 10px;
+}
+
+.header-icon{
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+
+.imagen {
+    height: 500px;
+    width: 450px;
+    background-color: white;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.iconos{
+    display: flex;
+    justify-content: space-between;
+
+}
+#ellipsis{
+    padding-top: 20px;
+    font-size: 25gipx;
+}
